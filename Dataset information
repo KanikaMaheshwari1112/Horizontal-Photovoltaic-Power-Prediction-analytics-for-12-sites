@@ -1,3 +1,5 @@
+This dataset has been taken from Kaggle in .csv format. The link for the dataset is as follows- https://www.kaggle.com/datasets/saurabhshahane/northern-hemisphere-horizontal-photovoltaic?resource=download
+
 This dataset accompanies the paper "Machine Learning Modeling of Horizontal Photovoltaics Using Weather and Location Data" submitted to the Journal of Renewable Energy. This file contains power output from horizontal photovoltaic panels located at 12 Northern hemisphere sites over 14 months. Independent variables in each column include: location, date, time sampled, latitude, longitude, altitude, year and month, month, hour, season, humidity, ambient temperature, power output from the solar panel, wind speed, visibility, pressure, and cloud ceiling.
 
 Acknowledgements
